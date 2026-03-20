@@ -1,2 +1,2 @@
 ﻿Ticker,Secteur,Region,EntryPrice,CurrentPrice,PnL_EUR,PnL_PCT,StopLoss,TakeProfit,RR,NbShares,PositionValue,DistToStop_PCT,DistToTarget_PCT,DaysHeld,DaysRemaining,Score,Conviction,EntryDate,ExportDate
-RWE.DE,utilities,Europe,58.38,58.2400016784668,-101.64,-0.24,55.08,63.33,1.5,726,42282.24,5.43,8.74,0,27,0.5972,8,2026-03-20,2026-03-20 09:32
+RWE.DE,utilities,Europe,58.06,58.040000915527344,-14.58,-0.03,54.76,63.01,1.5,729,42311.16,5.65,8.56,0,27,0.6687,8,2026-03-20,2026-03-20 10:32
