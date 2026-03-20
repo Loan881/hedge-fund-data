@@ -1,3 +1,2 @@
 ﻿Ticker,Secteur,Region,EntryPrice,CurrentPrice,PnL_EUR,PnL_PCT,StopLoss,TakeProfit,RR,NbShares,PositionValue,DistToStop_PCT,DistToTarget_PCT,DaysHeld,DaysRemaining,Score,Conviction,EntryDate,ExportDate
-IBE.MC,utilities,Europe,19.61,19.639999389648438,64.65,0.15,18.72,20.96,1.52,2155,42324.2,4.68,6.72,0,27,0.5979,8,2026-03-20,2026-03-20 11:32
-RWE.DE,utilities,Europe,58.42,58.41999816894531,-0.0,-0.0,55.11,63.39,1.5,723,42237.66,5.67,8.51,0,27,0.5972,8,2026-03-20,2026-03-20 11:32
+IBE.MC,utilities,Europe,19.67,19.655000686645508,-32.25,-0.08,18.77,21.01,1.49,2150,42258.25,4.5,6.89,0,27,0.5979,8,2026-03-20,2026-03-20 12:32
