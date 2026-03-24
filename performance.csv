@@ -3,11 +3,12 @@ Secteur,retail,4,-243.98,0.0,-60.99,Total
 Secteur,pharma,3,18.72,66.7,6.24,Total
 Secteur,energy,2,-131.58,0.0,-65.79,Total
 Secteur,N/A,3,-170.5,0.0,-56.83,Total
-Secteur,utilities,10,-1387.6,40.0,-138.76,Total
+Secteur,utilities,11,-1387.6,36.4,-126.15,Total
 Secteur,tech,3,141.26,66.7,47.09,Total
 Secteur,consumer,1,582.61,100.0,582.61,Total
 Region,USA,11,362.11,36.4,32.92,Total
-Region,Europe,12,-1382.68,41.7,-115.22,Total
+Region,Europe,13,-1382.68,38.5,-106.36,Total
 Region,N/A,3,-170.5,0.0,-56.83,Total
 Semaine,2026-W11,26,-1191.07,34.6,-45.81,2026-W11
-Global,Portefeuille,26,-1191.07,34.6,-45.81,Total
+Semaine,2026-W12,1,0,0.0,0.0,2026-W12
+Global,Portefeuille,27,-1191.07,33.3,-44.11,Total
