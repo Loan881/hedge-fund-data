@@ -8,13 +8,13 @@ Secteur,tech,17,-14002.07,58.8,-823.65,Total
 Secteur,consumer,1,582.61,100.0,582.61,Total
 Secteur,industrial,3,-1614.24,33.3,-538.08,Total
 Secteur,telecom,3,1065.8,66.7,355.27,Total
-Secteur,defense,1,-14.62,0.0,-14.62,Total
-Region,USA,45,-2065.5,57.8,-45.9,Total
+Secteur,defense,2,-293.76,0.0,-146.88,Total
+Region,USA,46,-2344.64,56.5,-50.97,Total
 Region,Europe,27,-1357.67,48.1,-50.28,Total
 Region,N/A,3,-170.5,0.0,-56.83,Total
 Semaine,2026-W11,26,-1191.07,34.6,-45.81,2026-W11
 Semaine,2026-W12,28,9317.8,67.9,332.78,2026-W12
 Semaine,2026-W14,11,-27541.98,45.5,-2503.82,2026-W14
 Semaine,2026-W15,8,16123.66,62.5,2015.46,2026-W15
-Semaine,2026-W16,2,-302.08,50.0,-151.04,2026-W16
-Global,Portefeuille,75,-3593.67,52.0,-47.92,Total
+Semaine,2026-W16,3,-581.22,33.3,-193.74,2026-W16
+Global,Portefeuille,76,-3872.81,51.3,-50.96,Total
