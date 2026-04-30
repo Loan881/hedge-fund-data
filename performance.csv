@@ -3,7 +3,7 @@ Secteur,retail,7,7059.47,42.9,1008.5,Total
 Secteur,pharma,9,341.74,66.7,37.97,Total
 Secteur,energy,4,-49.67,50.0,-12.42,Total
 Secteur,N/A,9,4439.41,55.6,493.27,Total
-Secteur,utilities,24,-1390.86,50.0,-57.95,Total
+Secteur,utilities,25,-1390.78,52.0,-55.63,Total
 Secteur,tech,17,-14002.07,58.8,-823.65,Total
 Secteur,consumer,6,592.74,66.7,98.79,Total
 Secteur,industrial,3,-1614.24,33.3,-538.08,Total
@@ -11,12 +11,12 @@ Secteur,telecom,3,1065.8,66.7,355.27,Total
 Secteur,defense,3,-2386.46,0.0,-795.49,Total
 Secteur,bank,4,-14.93,25.0,-3.73,Total
 Region,USA,47,-4437.34,55.3,-94.41,Total
-Region,Europe,39,-1351.23,51.3,-34.65,Total
+Region,Europe,40,-1351.15,52.5,-33.78,Total
 Region,N/A,3,-170.5,0.0,-56.83,Total
 Semaine,2026-W11,26,-1191.07,34.6,-45.81,2026-W11
 Semaine,2026-W12,28,9317.8,67.9,332.78,2026-W12
 Semaine,2026-W14,11,-27541.98,45.5,-2503.82,2026-W14
 Semaine,2026-W15,8,16123.66,62.5,2015.46,2026-W15
 Semaine,2026-W16,4,-2673.92,25.0,-668.48,2026-W16
-Semaine,2026-W17,12,6.44,58.3,0.54,2026-W17
-Global,Portefeuille,89,-5959.07,51.7,-66.96,Total
+Semaine,2026-W17,13,6.52,61.5,0.5,2026-W17
+Global,Portefeuille,90,-5958.99,52.2,-66.21,Total
