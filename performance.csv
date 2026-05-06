@@ -1,7 +1,7 @@
 ﻿Dimension,Valeur,NbTrades,PnL_EUR,WinRate,PnL_Moyen,Periode
 Secteur,retail,7,7059.47,42.9,1008.5,Total
 Secteur,pharma,14,354.52,71.4,25.32,Total
-Secteur,energy,35,414.45,42.9,11.84,Total
+Secteur,energy,36,415.0,44.4,11.53,Total
 Secteur,N/A,9,4439.41,55.6,493.27,Total
 Secteur,utilities,61,-1410.21,49.2,-23.12,Total
 Secteur,tech,27,-5389.19,55.6,-199.6,Total
@@ -10,7 +10,7 @@ Secteur,industrial,3,-1614.24,33.3,-538.08,Total
 Secteur,telecom,3,1065.8,66.7,355.27,Total
 Secteur,defense,3,-2386.46,0.0,-795.49,Total
 Secteur,bank,6,-17.33,33.3,-2.89,Total
-Region,USA,95,4661.19,54.7,49.07,Total
+Region,USA,96,4661.74,55.2,48.56,Total
 Region,Europe,78,-1475.23,44.9,-18.91,Total
 Region,N/A,3,-170.5,0.0,-56.83,Total
 Semaine,2026-W11,26,-1191.07,34.6,-45.81,2026-W11
@@ -19,5 +19,5 @@ Semaine,2026-W14,11,-27541.98,45.5,-2503.82,2026-W14
 Semaine,2026-W15,8,16123.66,62.5,2015.46,2026-W15
 Semaine,2026-W16,4,-2673.92,25.0,-668.48,2026-W16
 Semaine,2026-W17,43,9012.01,55.8,209.58,2026-W17
-Semaine,2026-W18,56,-31.04,42.9,-0.55,2026-W18
-Global,Portefeuille,176,3015.46,49.4,17.13,Total
+Semaine,2026-W18,57,-30.49,43.9,-0.53,2026-W18
+Global,Portefeuille,177,3016.01,49.7,17.04,Total
